@@ -1,0 +1,3 @@
+pilha sequencial (push, pop, top)
+fila encadeada (enqueue, dequeue)
+listas lineares

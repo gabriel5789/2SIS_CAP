@@ -1,0 +1,12 @@
+1) TAD operação first
+    Módulo first
+    inicio
+        se(not isEmpty)
+            retorna(dados[ini])
+        senão
+            retorna(nulo)
+    fim
+
+2) no eclipse
+
+3) 

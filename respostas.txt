@@ -1,0 +1,14 @@
+1) o atributo prox precisa ser do tipo NoLista, não int.
+
+2) ListaNAC.NoLista@41a4555e
+
+3) NO novo = new NO(); novo.dado = 'a'; novo.prox=null; lista=novo;
+
+4) fila.enqueue(prod1); fila.enqueue(prod3); fila.dequeue(); fila.enqueue(prod1); fila.dequeue(); fila.enqueue(prod4);
+
+5)
+	3  ->	public class FilaProduto {
+	6  ->	Produto dado;
+	20 ->	public void enqueue(Produto valor) {
+	31 ->	public Produto dequeue() {
+	39 ->	public Produto first() {
